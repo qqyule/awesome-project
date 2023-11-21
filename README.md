@@ -22,3 +22,10 @@
 [eladmin-web（前端）](https://github.com/elunez/eladmin-web)  |   Vue2, Element Ui  |  ![当前版本](https://img.shields.io/github/v/release/elunez/eladmin-web?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square) |   ![GitHub Repo stars](https://img.shields.io/github/stars/elunez/eladmin-web?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/elunez/eladmin-web?style=flat-square)   
 [cool-admin-midway（后端）](https://github.com/cool-team-official/cool-admin-midway)  |   Midway.js  |  ![当前版本](https://img.shields.io/github/v/release/cool-team-official/cool-admin-midway?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square)|   ![GitHub Repo stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-midway?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/cool-team-official/cool-admin-midway?style=flat-square)   
 [cool-admin-vue（前端）](https://github.com/cool-team-official/cool-admin-vue)  |   Vue3, Element Plus  |  ![当前版本](https://img.shields.io/github/v/release/cool-team-official/cool-admin-vue?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square)|   ![GitHub Repo stars](https://img.shields.io/github/stars/cool-team-official/cool-admin-vue?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/cool-team-official/cool-admin-vue?style=flat-square)   
+
+## 可视化大屏框架
+
+项目名称  |   技术栈  |   最新版本   |   Stars   |   最后更新   
+----  |   ----  |   ----   |   ----   |   ----   
+[IofTV-Screen](https://github.com/daidaibg/IofTV-Screen)  |   Vue-cli, Vue2  |  ![当前版本](https://img.shields.io/github/v/release/daidaibg/IofTV-Screen?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square) |   ![GitHub Repo stars](https://img.shields.io/github/stars/daidaibg/IofTV-Screen?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/daidaibg/IofTV-Screen?style=flat-square)   
+
