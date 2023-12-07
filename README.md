@@ -15,7 +15,8 @@
 [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin)  |   Vue3, Pinia, Element Plus  |  ![当前版本](https://img.shields.io/github/v/release/youlaitech/vue3-element-admin?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square)  |   ![GitHub Repo stars](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin?style=flat-square)   
 [continew-admin](https://github.com/youlaitech/vue3-element-admin)  |   Vue3, Arco Design, TypeScript, Vite4  |  ![当前版本](https://img.shields.io/github/v/release/Charles7c/continew-admin?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square)  |   ![GitHub Repo stars](https://img.shields.io/github/stars/Charles7c/continew-admin?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/Charles7c/continew-admin?style=flat-square)   
 [naive-ui-admin](https://github.com/jekip/naive-ui-admin)  |   Vue3, Naive UI, TypeScript, Pinia  |  ![当前版本](https://img.shields.io/github/v/release/jekip/naive-ui-admin?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square)  |   ![GitHub Repo stars](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/jekip/naive-ui-admin?style=flat-square)   
-[soybean-admin](https://github.com/jekip/naive-ui-admin)  |   Vue3, Naive UI, TypeScript, Pinia  |  ![当前版本](https://img.shields.io/github/v/release/jekip/naive-ui-admin?label=%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC&style=flat-square)  |   ![GitHub Repo stars](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=flat-square)   |   ![GitHub Repo stars](https://img.shields.io/github/last-commit/jekip/naive-ui-admin?style=flat-square)   
+[soybean-admin]
+[vuestic-admin]
 
 ## 前端 + 后端中后台框架
 
